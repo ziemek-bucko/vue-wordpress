@@ -462,7 +462,7 @@ get_footer();
 ````
 ##### Preload Data SEO
 
-When you preload required data, the Vue instance has everything it needs on render. This allows crawlers that can render js to index your site appropriately. However, it should be mentioned that just because these crawlers have the capability of rendering the js before indexing it doesn't mean they will. Here's [an article](https://www.elephate.com/blog/javascript-seo-experiment/) about it for more information.
+When you preload required data, the Vue instance has everything it needs on render. This allows crawlers that can render js to index your site appropriately. However, it should be mentioned that just because these crawlers have the capability of rendering the js before indexing it doesn't mean they will. Here's [an article](https://www.onely.com/blog/javascript-seo-experiment/) about it for more information.
 
 Of course the added UX benefit of this approach is that the end users will be able to interact with the content pretty much immediately ( after the js is parse and rendered, and not have to wait for the app to fetch data ).
 
